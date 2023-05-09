@@ -6,7 +6,7 @@ const spøgelseHastighed = 2;
 let tid = 0;
 let score = 0;
 let liv = 3;
-let skydeTimer = 5;
+let skydeTimer = 1;
 let projektiler = [];
 let baggrundsBilled;
 let spillerBilled;
